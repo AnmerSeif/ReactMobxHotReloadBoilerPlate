@@ -14,11 +14,11 @@ npm start
 ```
 
 ## For Bundling
-Hvis `webpack-cli` er ikke innstallert, installer ved å skrive: 
+Hvis `webpack-cli` er ikke innstallert, installer ved å skrive på terminalen: 
 ```bash
 npm install -g webpack-cli
 ```
-For å bundle:
+For å bundle, skriv på terminalen:
 ```bash
 webpack
 ```
