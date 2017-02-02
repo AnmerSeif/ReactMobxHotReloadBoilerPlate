@@ -11,7 +11,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
   },
   "license": "Copyright Webnodes AS",
   "dependencies": {
