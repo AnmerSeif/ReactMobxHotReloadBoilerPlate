@@ -22,4 +22,3 @@ For å bundle:
 ```bash
 webpack
 ```
-
