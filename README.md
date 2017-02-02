@@ -3,7 +3,7 @@
 Utviklingen skjer på en webpack-dev-server som støtter hot reload. På server.js filen er serveren konfigurert til å kjøre på localhost med portnummer 3000. 
 
 
-## Innstallere
+## Installere
 ```bash
 npm install
 ```
